@@ -1,0 +1,23 @@
+{
+  "name": "gof-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/GoF-typescript.git"
+  },
+  "keywords": [],
+  "author": "Andrii Zilnyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/GoF-typescript/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/GoF-typescript#readme",
+  "devDependencies": {
+    "typescript": "4.4.4"
+  }
+}
